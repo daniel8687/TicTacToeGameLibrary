@@ -15,6 +15,12 @@ ticTacToeLibrary.InsertPosition(new PlayerGameInfo() { player = player2, playerG
 ticTacToeLibrary.InsertPosition(new PlayerGameInfo() { player = player1, playerGame = new PlayerGame() { PositionX = 2, PositionY = 2 } });  
 ticTacToeLibrary.InsertPosition(new PlayerGameInfo() { player = player2, playerGame = new PlayerGame() { PositionX = 2, PositionY = 1 } });  
 
-# Log
+# Logger
 You can see the log over path:  
 {executionPath}\Logger\Logs.txt
+
+# Time Line
+- Project Structure Folder  10 minutes  
+- Logger Logic              20 Minutes  
+- Develop Game Logic        150 minutes  
+- Develop Unit Testing      60 Minutes  
