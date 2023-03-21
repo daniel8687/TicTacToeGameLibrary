@@ -16,5 +16,5 @@ ticTacToeLibrary.InsertPosition(new PlayerGameInfo() { player = player1, playerG
 ticTacToeLibrary.InsertPosition(new PlayerGameInfo() { player = player2, playerGame = new PlayerGame() { PositionX = 2, PositionY = 1 } });
 
 # Log
-You can see the log over path:
+You can see the log over path:  
 {executionPath}\Logger\Logs.txt
